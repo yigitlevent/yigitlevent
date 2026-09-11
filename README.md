@@ -1,6 +1,4 @@
-# Hi, it's me
-
-## Things I use these days
+### Hi, it's me. And these are the things I use these days
 
 **OS & Tools**
 
